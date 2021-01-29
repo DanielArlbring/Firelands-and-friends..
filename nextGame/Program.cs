@@ -9,7 +9,7 @@ namespace nextGame
 
         static void Main(string[] args)
 
-
+             
         {
             bool condition = true;
             while (condition)
